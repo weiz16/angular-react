@@ -1,27 +1,15 @@
-# AngularReact
+# Exploring React Components within Angular (在 Angular 中探索 React 组件) :atom_symbol: :arrows_clockwise: :atom_symbol:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+Welcome to the "Exploring React Components within Angular" repository! In this project, I've 🕵️‍♂️ experimented with the intriguing possibility of using React components within an Angular application. The aim was to uncover the benefits and challenges of this unique approach to frontend development. :rocket:
 
-## Development server
+## Project Overview (项目概述) :clipboard:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Throughout this repository, I 🚀 have explored the integration of React components into an existing Angular application. By delving into this innovative technique, I sought to harness the full potential of React's component-based architecture alongside Angular's powerful ecosystem. Whether you're an Angular expert or just starting your journey, this project offers valuable insights into expanding the boundaries of Angular development.
 
-## Code scaffolding
+## Automatic Deployment (自动部署) :rocket:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+To make things even more exciting, I've set up GitHub Actions to automatically deploy the project after every successful push to the `master` branch. The application will be magically 🪄 deployed to the following URL: [https://weiz16.github.io/angular-react](https://weiz16.github.io/angular-react) :sparkles: :rocket:
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Thank you for joining me on this journey of exploring React components within Angular! I hope you'll find this project enlightening and inspiring. Happy coding! :computer: :tada: :star2:
